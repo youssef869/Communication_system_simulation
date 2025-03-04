@@ -14,5 +14,5 @@ using suitable carrier frequencies.
 5) We designed a receiver to obtain each of the two signals from the transmitted signal saving the audio
 files as ‘output1.wav’ and ‘output2.wav’ and then we plotted the magnitude spectrum of each.
 
-for more deatils and diagrams please check attached report.
+for more deatils please check attached report.
 
